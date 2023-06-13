@@ -1,0 +1,8 @@
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\bin\Debug\SoftServe.exe.config
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\bin\Debug\SoftServe.exe
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\bin\Debug\SoftServe.pdb
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\obj\Debug\SoftServe.csproj.AssemblyReference.cache
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\obj\Debug\SoftServe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\obj\Debug\SoftServe.csproj.CoreCompileInputs.cache
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\obj\Debug\SoftServe.exe
+C:\Users\Nick\OneDrive\Desktop\SoftServe\SoftServe\obj\Debug\SoftServe.pdb
